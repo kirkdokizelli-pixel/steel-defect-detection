@@ -1,5 +1,10 @@
 # Steel Surface Defect Detection with YOLOv8
 
+![Python](https://img.shields.io/badge/Python-3.8+-blue)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-Ultralytics-purple)
+![mAP50](https://img.shields.io/badge/mAP50-72.5%25-green)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+
 ## Project Overview
 Automated defect detection system for steel manufacturing using YOLOv8.
 The model classifies six types of surface defects from the NEU dataset,
@@ -18,6 +23,8 @@ enabling real-time quality control inspection without manual intervention.
 - Epochs: 100
 - Image size: 640×640
 - Framework: Ultralytics
+
+![Confusion Matrix](results/confusion_matrix.png)
 
 ## Results
 
