@@ -50,6 +50,10 @@ enabling real-time quality control inspection without manual intervention.
 - Experiment with larger YOLOv8 variants for improved accuracy
 - Add real-time webcam inference support
 
+## Links
+- **Model on Hugging Face:** https://huggingface.co/kirkdokizelli/steel-defect-yolov8
+- **GitHub:** https://github.com/kirkdokizelli/steel-defect-detection
+
 ## Usage
 ```bash
 pip install -r requirements.txt
