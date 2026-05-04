@@ -1,0 +1,6 @@
+train: /content/split/train2/images
+val: /content/split/val2/images
+test: /content/split/test2/images
+
+nc: 6
+names: ['crazing', 'inclusion', 'patches', 'pitted_surface', 'rolled-in_scale', 'scratches']

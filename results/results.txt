@@ -1,0 +1,10 @@
+mAP50: 0.9003
+mAP50-95: 0.6322
+
+Per-class AP50:
+  crazing: 0.7458
+  inclusion: 0.9039
+  patches: 0.9719
+  pitted_surface: 0.8324
+  rolled-in_scale: 0.9597
+  scratches: 0.9880

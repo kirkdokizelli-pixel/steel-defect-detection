@@ -1,0 +1,16 @@
+# Model dosyaları
+*.pt
+*.pth
+*.onnx
+
+# YOLO çıktıları
+runs/
+
+# Dataset
+datasets/
+*.zip
+
+# Python
+__pycache__/
+*.pyc
+.env
